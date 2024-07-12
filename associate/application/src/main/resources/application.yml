@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  application:
+    name: associate
+  data:
+    mongodb:
+      auto-index-creation: true
+      uri: mongodb://localhost:27017/intra?serverSelectionTimeoutMS=15000&connectTimeoutMS=15000

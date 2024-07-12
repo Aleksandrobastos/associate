@@ -1,0 +1,4 @@
+br/com/cisp/go/repository/AssociateRepository.class
+br/com/cisp/go/exception/BadRequestException.class
+br/com/cisp/go/exception/InternalServiceErrorException.class
+br/com/cisp/go/repository/orm/AssociateOrm.class
